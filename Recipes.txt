@@ -1,0 +1,446 @@
+<recipe=1>
+  <product>kind=2,id=39</product>
+  <ingredients>
+    kind = 2,id = 31,number = 5
+  </ingredients>
+</recipe>
+
+<recipe=2>
+  <product>kind=2,id=40</product>
+  <ingredients>
+    kind = 2,id = 34,number = 5
+  </ingredients>
+</recipe>
+
+<recipe=3>
+  <product>kind=0,id=120</product>
+  <ingredients>
+    kind = 0,id = 119, number = 10
+  </ingredients>
+</recipe>
+
+<recipe=4>
+  <product>kind=0,id=121</product>
+  <ingredients>
+    kind = 0,id = 120, number = 10
+  </ingredients>
+</recipe>
+
+<recipe=5>
+  <product>kind=0,id=142</product>
+  <ingredients>
+    kind = 0,id =145 , number = 3
+  </ingredients>
+</recipe>
+
+<recipe=6>
+  <product>kind=0,id=143</product>
+  <ingredients>
+    kind = 0,id =145 , number = 5
+  </ingredients>
+</recipe>
+
+<recipe=7>
+  <product>kind=0,id=144</product>
+  <ingredients>
+    kind = 0,id =145 , number = 12
+  </ingredients>
+</recipe>
+
+
+<recipe=8>
+  <product>kind=2,id=36</product>
+  <ingredients>
+    kind = 0,id =145 , number = 3
+    kind = 2,id =31 , number = 1
+    kind = 2,id =32 , number = 1
+    kind = 2,id =33 , number = 1
+    kind = 2,id =34 , number = 1
+    kind = 2,id =35 , number = 1
+  </ingredients>
+</recipe>
+
+<recipe=9>
+  <product>kind=2,id=39</product>
+  <ingredients>
+    kind = 0,id =145 , number = 20
+  </ingredients>
+</recipe>
+
+<recipe=10>
+  <product>kind=2,id=40</product>
+  <ingredients>
+    kind = 0,id =145 , number = 20
+  </ingredients>
+</recipe>
+
+<recipe=11>
+  <product>kind=0,id=193</product>
+  <ingredients>
+    kind = 0,id =192 , number = 1
+    kind = 0,id =145 , number = 50
+  </ingredients>
+</recipe>
+
+<recipe=12>
+  <product>kind=0,id=162</product>
+  <ingredients>
+    kind = 0,id =145 , number = 2
+  </ingredients>
+</recipe>
+
+<recipe=13>
+  <product>kind=0,id=163</product>
+  <ingredients>
+    kind = 0,id =145 , number = 5
+  </ingredients>
+</recipe>
+
+<recipe=14>
+  <product>kind=0,id=164</product>
+  <ingredients>
+    kind = 0,id =145 , number = 9
+  </ingredients>
+</recipe>
+
+<recipe=15>
+  <product>kind=2,id=30</product>
+  <ingredients>
+    kind = 0,id =145 , number = 7
+    kind = 0,id =249 , number = 9
+    kind = 0,id =253 , number = 9
+    kind = 0,id =251 , number = 3
+    kind = 0,id =252 , number = 3
+    kind = 0,id =254 , number = 3
+    kind = 0,id =255 , number = 3
+  </ingredients>
+</recipe>
+
+<recipe=16>
+  <product>kind=0,id=228</product>
+  <ingredients>
+    kind = 0,id =145 , number = 2
+  </ingredients>
+</recipe>
+
+<recipe=17>
+  <product>kind=0,id=229</product>
+  <ingredients>
+    kind = 0,id =145 , number = 3
+  </ingredients>
+</recipe>
+
+
+<recipe=18>
+  <product>kind=0,id=232</product>
+  <ingredients>
+    kind = 0,id =145 , number = 4
+  </ingredients>
+</recipe>
+
+<recipe=19>
+  <product>kind=0,id=230</product>
+  <ingredients>
+    kind = 0,id =145 , number = 2
+  </ingredients>
+</recipe>
+
+<recipe=20>
+  <product>kind=0,id=234</product>
+  <ingredients>
+    kind = 0,id =145 , number = 10
+  </ingredients>
+</recipe>
+
+
+<recipe=21>
+  <product>kind=0,id=235</product>
+  <ingredients>
+    kind = 0,id =145 , number = 10
+  </ingredients>
+</recipe>
+
+<recipe=22>
+  <product>kind=0,id=237</product>
+  <ingredients>
+    kind = 0,id =145 , number = 1
+  </ingredients>
+</recipe>
+
+<recipe=23>
+  <product>kind=0,id=239</product>
+  <ingredients>
+    kind = 0,id =145 , number = 5
+    kind = 0,id =249 , number = 5
+    kind = 0,id =253 , number = 5
+    kind = 0,id =251 , number = 5
+    kind = 0,id =252 , number = 5
+    kind = 0,id =254 , number = 5
+    kind = 0,id =255 , number = 5
+  </ingredients>
+</recipe>
+
+<recipe=24>
+  <product>kind=0,id=244</product>
+  <ingredients>
+    kind = 0,id =145 , number = 10
+  </ingredients>
+</recipe>
+
+<recipe=25>
+  <product>kind=0,id=248</product>
+  <ingredients>
+    kind = 0,id =249 , number = 10
+    kind = 0,id =123 , number = 50
+  </ingredients>
+</recipe>
+
+
+<recipe=26>
+  <product>kind=0,id=250</product>
+  <ingredients>
+    kind = 0,id =251 , number = 8
+    kind = 0,id =123 , number = 50
+  </ingredients>
+</recipe>
+
+
+<recipe=27>
+  <product>kind=0,id=258</product>
+  <ingredients>
+    kind = 0,id = 257, number = 15
+    kind = 0,id =145 , number = 20
+    kind = 0,id =255 , number = 15
+  </ingredients>
+</recipe>
+
+
+<recipe=28>
+  <product>kind=0,id=272</product>
+  <ingredients>
+    kind = 0,id = 145, number = 3
+  </ingredients>
+</recipe>
+
+
+<recipe=29>
+  <product>kind=0,id=273</product>
+  <ingredients>
+    kind = 0,id = 145, number = 3
+  </ingredients>
+</recipe>
+
+
+<recipe=30>
+  <product>kind=0,id=277</product>
+  <ingredients>
+    kind = 0,id = 145, number = 3
+  </ingredients>
+</recipe>
+
+<recipe=31>
+  <product>kind=0,id=278</product>
+  <ingredients>
+    kind = 0,id = 145, number = 3
+  </ingredients>
+</recipe>
+
+
+<recipe=32>
+  <product>kind=0,id=279</product>
+  <ingredients>
+    kind = 0,id = 145, number = 3
+  </ingredients>
+</recipe>
+
+
+<recipe=33>
+  <product>kind=0,id=280</product>
+  <ingredients>
+    kind = 0,id = 145, number = 3
+  </ingredients>
+</recipe>
+
+
+<recipe=34>
+  <product>kind=2,id=25</product>
+  <ingredients>
+    kind = 0,id = 145, number = 20
+  </ingredients>
+</recipe>
+
+
+<recipe=35>
+  <product>kind=2,id=26</product>
+  <ingredients>
+    kind = 0,id = 145, number = 25
+  </ingredients>
+</recipe>
+
+
+<recipe=36>
+  <product>kind=2,id=27</product>
+  <ingredients>
+    kind = 0,id = 145, number = 35
+  </ingredients>
+</recipe>
+
+
+<recipe=37>
+  <product>kind=2,id=28</product>
+  <ingredients>
+    kind = 0,id = 145, number = 80
+  </ingredients>
+</recipe>
+
+
+<recipe=38>
+  <product>kind=2,id=29</product>
+  <ingredients>
+    kind = 0,id = 145, number = 35
+  </ingredients>
+</recipe>
+
+
+<recipe=39>
+  <product>kind=2,id=53</product>
+  <ingredients>
+    kind = 0,id = 145, number = 30
+  </ingredients>
+</recipe>
+
+<recipe=40>
+  <product>kind=0,id=275</product>
+  <ingredients>
+    kind = 0,id = 145, number = 2
+    kind = 0,id = 122, number = 1
+  </ingredients>
+</recipe>
+
+<recipe=41>
+  <product>kind=0,id=262</product>
+  <ingredients>
+    kind = 0,id = 145, number = 50
+  </ingredients>
+</recipe>
+
+<recipe=42>
+  <product>kind=0,id=263</product>
+  <ingredients>
+    kind = 0,id = 145, number = 10
+  </ingredients>
+</recipe>
+
+
+<recipe=43>
+  <product>kind=0,id=295</product>
+  <ingredients>
+    kind = 0,id = 288, number = 250
+  </ingredients>
+</recipe>
+
+<recipe=44>
+  <product>kind=0,id=296</product>
+  <ingredients>
+    kind = 0,id = 288, number = 200
+  </ingredients>
+</recipe>
+
+
+<recipe=45>
+  <product>kind=0,id=297</product>
+  <ingredients>
+    kind = 0,id = 288, number = 100
+  </ingredients>
+</recipe>
+
+<recipe=46>
+  <product>kind=0,id=162</product>
+  <ingredients>
+    kind = 0,id = 288, number = 10
+  </ingredients>
+</recipe>
+
+<recipe=47>
+  <product>kind=0,id=163</product>
+  <ingredients>
+    kind = 0,id = 288, number = 25
+  </ingredients>
+</recipe>
+
+<recipe=48>
+  <product>kind=0,id=164</product>
+  <ingredients>
+    kind = 0,id = 288, number = 40
+  </ingredients>
+</recipe>
+
+<recipe=49>
+  <product>kind=0,id=144</product>
+  <ingredients>
+    kind = 0,id = 288, number = 50
+  </ingredients>
+</recipe>
+
+<recipe=50>
+  <product>kind=0,id=290</product>
+  <ingredients>
+    kind = 0,id = 288, number = 20
+  </ingredients>
+</recipe>
+
+<recipe=51>
+  <product>kind=0,id=291</product>
+  <ingredients>
+    kind = 0,id = 288, number = 50
+  </ingredients>
+</recipe>
+
+<recipe=52>
+  <product>kind=0,id=292</product>
+  <ingredients>
+    kind = 0,id = 288, number = 150
+  </ingredients>
+</recipe>
+
+<recipe=53>
+  <product>kind=0,id=239</product>
+  <ingredients>
+    kind = 0,id = 288, number = 20
+  </ingredients>
+</recipe>
+
+<recipe=54>
+  <product>kind=0,id=145</product>
+  <ingredients>
+    kind = 0,id = 288, number = 5
+  </ingredients>
+</recipe>
+
+<recipe=55>
+  <product>kind=2,id=55</product>
+  <ingredients>
+    kind = 0,id = 288, number = 155
+  </ingredients>
+</recipe>
+
+<recipe=56>
+  <product>kind=2,id=51</product>
+  <ingredients>
+    kind = 0,id = 288, number = 160
+  </ingredients>
+</recipe>
+
+<recipe=57>
+  <product>kind=2,id=52</product>
+  <ingredients>
+    kind = 0,id = 288, number = 160
+  </ingredients>
+</recipe>
+
+<recipe=58>
+  <product>kind=2,id=54</product>
+  <ingredients>
+    kind = 0,id = 288, number = 180
+  </ingredients>
+</recipe>
